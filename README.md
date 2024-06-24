@@ -1,4 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=transparent&color=7BD1D2&height=200&section=header&text=Welcome%20to%20My%20Github&fontSize=50)
+### ![header](https://capsule-render.vercel.app/api?type=transparent&color=F1E1A6&height=200&section=header&text=Welcome%20to%20My%20Github&fontSize=50)
 
 <!--
 **GRetriever/GRetriever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
