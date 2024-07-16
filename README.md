@@ -1,10 +1,13 @@
 <!-- ### ![header](https://capsule-render.vercel.app/api?type=transparent&color=0969DA&height=200&section=header&text=Welcome%20to%20My%20Github&fontSize=50&fontColor=00FF00) -->
 
-'''python
+```python
+
 from GihunKwon import DataAnalyst
 
 
-'''
+```
+
+
 
 <!--
 **GRetriever/GRetriever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
