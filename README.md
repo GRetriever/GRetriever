@@ -11,7 +11,7 @@ GihunKwon = {
     'Data Analysis' : ['Crawing','Cleaning','Interpretation','Visualisation'],
     'Statistics' : True,
     'Machine Learning' : True,
-    'SoftSkills' : ['Highly-Organised','Hard-Working', 'Reliable']
+    'SoftSkills' : ['Highly-Organised','Hard-Working','Reliable']
 
 
 
