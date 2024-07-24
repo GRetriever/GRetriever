@@ -7,13 +7,11 @@
 from GihunKwon import DataAnalyst
 
 GihunKwon = {
-    'Language' : ['Python', 'MySQL'],
-    'Tools' : ['Excel', 'Tableau', 'Streamlit'],
-    'Data Analysis' : ['Crawing', 'Cleaning', 'Interpretation', 'Visualisation'],
+    'Skills' : ['Python','MySQL','Excel','Tableau','Streamlit'],
+    'Data Analysis' : ['Crawing','Cleaning','Interpretation','Visualisation'],
     'Statistics' : True,
     'Machine Learning' : True,
-    'Hard Working' : True,
-    'SoftSkills' : ['Highly-Organised', 'Fast-Paced', 'Punctual', 'Positive', 'Adept', 'Detail-Oriented']
+    'SoftSkills' : ['Highly-Organised','Hard-Working', 'Reliable']
 
 
 
