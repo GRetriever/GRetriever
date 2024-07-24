@@ -12,6 +12,7 @@ GihunKwon = {
     'Statistics' : True,
     'Machine Learning' : True,
     'SoftSkills' : ['Highly-Organised','Hard-Working','Reliable']
+    }
 
 
 
